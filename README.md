@@ -1,4 +1,4 @@
-# mpv-cut
+# mpv-videocut
 
 This extension allows you to:
 
@@ -24,7 +24,7 @@ Besides mpv, you must have `ffmpeg` in your PATH.
 #### Linux/MacOS
 
 ```
-git clone -b release --single-branch "https://github.com/familyfriendlymikey/mpv-cut.git" ~/.config/mpv/scripts/mpv-cut
+git clone -b release --single-branch "https://github.com/jankozik/mpvplugin-videocut.git" ~/.config/mpv/scripts/mpv-cut
 ```
 
 #### Windows
@@ -33,7 +33,7 @@ In
 `%AppData%\Roaming\mpv\scripts` or `Users\user\scoop\persist\mpv\scripts` run:
 
 ```
-git clone -b release --single-branch "https://github.com/familyfriendlymikey/mpv-cut.git"
+git clone -b release --single-branch "https://github.com/jankozik/mpvplugin-videocut.git"
 ```
 
 That's all you have to do, next time you run mpv the script will be automatically loaded.
